@@ -1,0 +1,149 @@
+{
+        "best": {
+                "best-exercises": [
+                        "birpies",
+                        "jump squats",
+                        "tuck jumps",
+                        "jumping lunges",
+                        "push-up to squat (half-birpie)",
+                        "weighted front squats",
+                        "weighted back squats",
+                        "weighted lunges",
+                        "deadlift",
+                        "thruster",
+                        "farmer walks"
+                ]
+        },
+        "calisthenics": {
+                "push_ups": [
+                        "normal",
+                        "narrow/ diamond",
+                        "wide",
+                        "clap",
+                        "pike",
+                        "super-wide",
+                        "slow-mo",
+                        "superman",
+                        "spiderman",
+                        "feet-to-wall",
+                        "psuedo",
+                        "single-arm",
+                        "finger",
+                        "knuckle",
+                        "hammer-climb",
+                        "hammer-climb+push-up",
+                        "typewriter",
+                        "hover",
+                        "handstand",
+                        "incline",
+                        "decline",
+                        "deep-chest",
+                        "explosive-to-elevated-objects",
+                        "arrow-arm",
+                        "bicep",
+                        "single-leg",
+                        "forearm"
+                ],
+                "dips": [
+                        "tricep",
+                        "front (one bar)",
+                        "front (parallel bars)"
+                ],
+                "squats": [
+                        "normal",
+                        "wide",
+                        "squat-jumps",
+                        "lunges",
+                        "explosive-lounges",
+                        "explosive-wall-lunges",
+                        "narrow",
+                        "slow-mo",
+                        "pistol",
+                        "side squat"
+                ],
+                "jumps": [
+                        "star-jumps",
+                        "tuck jumps",
+                        "side-ski jumps"
+                ],
+                "abs_dynamic": [
+                        "normal",
+                        "bicycle",
+                        "crunches",
+                        "hanging sit-ups",
+                        "v sit-ups",
+                        "leg-raises (floor)",
+                        "leg-raises (hanging)",
+                        "flutter-kicks",
+                        "mountain-climbers",
+                        "knees-to-chest"
+                ],
+                "abs_static": [
+                        "normal plank",
+                        "push-up plank",
+                        "banana",
+                        "side-plank",
+                        "L-hang",
+                        "long-plank"
+                ],
+                "static": [
+                        "wall-sit",
+                        "handstand-hold",
+                        "L sit",
+                        "horse-stance",
+                        "plank",
+                        "glute bridge hold"
+                ],
+                "other": [
+                        "glute-bridge thrusts",
+                        "glute bridge thrusts (one leg)",
+                        "high knees",
+                        "bum kicks",
+                        "sprint (on the spot)",
+                        "shuttle runs",
+                        "pull-ups",
+                        "handstand-wall-walk",
+                        "birpies"
+                ]
+        },
+        "weights": {
+                "legs": [
+                        "squats",
+                        "lunges",
+                        "deadlift (normal)",
+                        "deadlift (sumo)",
+                        "glute thruster"
+                ],
+                "arms": [
+                        "bicep curls",
+                        "tricep extensions",
+                        "dumbell flys",
+                        "hammer curls",
+                        "forearm curls"
+                ],
+                "back": [
+                        "front rows",
+                        "lateral rows",
+                        "deadlift (romian)"
+                ],
+                "other": [
+                        "shoulder shrug",
+                        "shoulder press",
+                        "thruster"
+                ]
+        },
+        "Martial Arts": [
+                "punches",
+                "kicks",
+                "elbows",
+                "footwork",
+                "punching bag",
+                "edurance drills"
+        ],
+        "HIIT": [],
+        "mixed": [
+                "calisthenics",
+                "weights",
+                "best"
+        ]
+}

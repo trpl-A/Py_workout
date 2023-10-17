@@ -1,0 +1,75 @@
+
+CREATE CLASSES AND OBJECTS
+
+hide the following folders and files
+- info.txt
+- workout dirs (2)
+- json file
+- all py files, except for the main.py 
+
+
+del _notes.txt 
+
+
+
+
+create a file that has all the essential functions and classes
+maybe upload it on pypi, or github and encourage others to use it
+maybe use git for this project
+
+use sys.argv somewhere in program 
+add keyboard exception
+
+add a functionality to save a workout to a tex file or something
+
+add to github? 
+
+add colorama
+
+create a requirements doc
+
+use csv somewhere 
+
+hide some or all of the folders, and important files 
+
+add custom icon for exe file 
+
+
+notes
+-----
+testosterone info and how it affects your body 
+https://www.healthline.com/health/what-is-testosterone#low-t-levels
+Low testosterone levels
+Low levels of testosterone, also called low T levels, can produce a variety of symptoms in men, including:
+
+decreased sex drive
+less energy
+weight gain
+feelings of depression
+moodiness
+low self-esteem
+less body hair
+thinner bones
+
+While testosterone production naturally tapers off as a man ages, other factors 
+can cause hormone levels to drop.
+
+Injury to the testicles and cancer treatments such as chemotherapy or radiation 
+can negatively affect testosterone production.
+
+Chronic health conditions and stress can also reduce testosterone production. 
+Some of these include:
+
+AIDS
+kidney disease
+alcoholism
+cirrhosis of the live
+
+-------
+
+
+APIS
+----
+https://api-ninjas.com/api/exercises
+
+<end>
