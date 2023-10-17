@@ -1,0 +1,6 @@
+Wed Oct 18 00:02:55 2023abs_static- exercise: 		banana- minumum time: 	30 secondsstatic- exercise: 		horse-stance- minumum time: 	30 secondsWed Oct 18 00:04:40 2023abs_static
+- exercise: 		push-up plank
+- minumum time: 	60 seconds
+static
+- exercise: 		plank
+- minumum time: 	30 seconds
