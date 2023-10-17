@@ -6,9 +6,9 @@
 - Status:     
     * work-in-progress
     * connected to git? yes
-    * connected to github? no
+    * connected to github? yes
 
 ## More notes
-===
+
 
 <end>

@@ -60,9 +60,10 @@ class Workout:
 
     # creating the workout
     def workout_gen(self):
-        # loading json 
-        # with open("workout_exercises.json") as f:
-        #     data = json.load(f)
+        recording = []
+        f = open("workout-records-all/date-all.txt", "a")
+        f.write(time.asctime())
+        f.write("\n\n")
 
         # getting user input (string)
         a = self.select_workout_type()
@@ -87,6 +88,11 @@ class Workout:
                     print(f"{a}")
                     print(f"- exercise: \t\t{random.choice(dict_cali[a])}")
                     print(f"- minumum time: \t{random.choice(user_time)} seconds")
+
+                    f.write(f"{a}\n")
+                    f.write(f"- exercise: \t\t{random.choice(dict_cali[a])}\n")
+                    f.write(f"- minumum time: \t{random.choice(user_time)} seconds\n")
+
 
                 else: 
                     # print(f"{Back.WHITE}{a}{Back.RESET}")
@@ -121,6 +127,14 @@ class Workout:
                     print(exercise)
                     print(f"- minumum reps: \t{random.choice(user_reps)} reps")
                 print("\n")
+
+        # record all workouts
+
+        # save workout
+        save = input("Save this workout? (y/n) ").lower()
+        if save == "y":
+            with open("workout-records-saved/date.txt", "w") as f:
+                f.write("saving...")
     # ===================================
     
 
